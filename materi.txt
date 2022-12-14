@@ -1,5 +1,8 @@
 mata kuliah intruduction to infrmation tehnology
-1.pengenalan mata kuliah
-2.kompenen komputer
-3.sistem bilangan
-4.konversi bilangan
+1. pengenalan mata kuliah
+2. kompenen komputer
+3. sistem bilangan
+4. konversi bilangan
+5. setting halaman
+6. daftar isi
+7. mail marge
